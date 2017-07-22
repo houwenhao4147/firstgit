@@ -24,4 +24,6 @@ My stupid boss still prefers SVN.
 
 git DEv
 
-git master
+
+
+Creating a new branch is quick master AND simple.
